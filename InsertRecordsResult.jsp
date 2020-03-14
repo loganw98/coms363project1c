@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert Records Result</title>
 </head>
 <body>
-
+    <%= "Your data records have successfully been inserted." %>
 </body>
 </html>

@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+    <%= "Your data record has successfully been modified." %>
 </body>
 </html>
